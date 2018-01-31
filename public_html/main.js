@@ -30,6 +30,7 @@ $(document).ready(() => {
                  * ---------------------------------
                  */
             case 'Tehtävä 2':
+                //test
             
             break;
             
